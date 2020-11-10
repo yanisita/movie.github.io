@@ -179,4 +179,7 @@ color:white}
 .Menu{position:relative;
 left:-100%}
 }
+.fa-home::before, .fa-fire::before, .fa-cog::before {
+    display: block;
+}
 
