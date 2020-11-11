@@ -182,4 +182,7 @@ left:-100%}
 .fa-home::before, .fa-fire::before, .fa-cog::before {
     display: block;
 }
-
+.Peliculas-container-item-img {
+    width: 100%;
+    vertical-align: top;
+}
